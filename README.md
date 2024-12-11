@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnamFarooque
-- 👀 I’m interested in NFT and Web Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MVc Asp.Net
 - 💞️ I’m looking to collaborate on world of Art and Technology
 - 📫 How to reach me anamarain07@gmail.com
